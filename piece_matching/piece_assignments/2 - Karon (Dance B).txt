@@ -1,0 +1,20 @@
+********************
+Karon (2, Dance B)
+Desired: 13 dancers (no gender constraints)
+Matched: 13 dancers (4 female, 9 male)
+74	Michelle Cho	F	mwcho@andrew.cmu.edu	732-744-4798
+81	Carlos Domene	M	cdomene@andrew.cmu.edu	562-447-4268
+83	Terence An	M	terencea@andrew.cmu.edu	4+
+84	James Harvey	M	jdharvey@andrew.cmu.edu	3604712879
+88	karon hawkins	M	kjhawkin@andrew.cmu.edu	9179723953
+89	Job Bedford	M	jbedford@andrew.cmu.edu	410818008
+91	Kaalen Kirrene	M	kkirrene@andrew.cmu.edu	9165255723
+156	Christin Bongiorni	F	cbongior@andrew.cmu.edu	724-809-5704
+192	Graham Arthur	M	garthur@andrew.cmu.edu	201-240-5857
+208	Alexis DeLaRosa	F	adelaros@andrew.cmu.edu	845-494-5229
+232	Francois Ban	F	kban@andrew.cmu.edu	6316172859
+300	Man Jun Han	M	manjunh@andrew.cmu.edu	412-694-6199
+302	Anand Pattabiraman	M	apattabi@andrew.cmu.edu	2012146067
+********************
+Emails to copy:
+kjhawkin@andrew.cmu.edu, adelaros@andrew.cmu.edu, cbongior@andrew.cmu.edu, garthur@andrew.cmu.edu, mwcho@andrew.cmu.edu, kban@andrew.cmu.edu, apattabi@andrew.cmu.edu, jdharvey@andrew.cmu.edu, manjunh@andrew.cmu.edu, kkirrene@andrew.cmu.edu, terencea@andrew.cmu.edu, jbedford@andrew.cmu.edu, cdomene@andrew.cmu.edu

@@ -1,0 +1,21 @@
+********************
+Carlos (6, Dance F)
+Desired: 16 dancers (8-8 females, 8-8 males)
+Matched: 14 dancers (7 female, 7 male)
+77	David Buzzell	M	dbuzzell@andrew.cmu.edu	404-585-1629
+81	Carlos Domene	M	cdomene@andrew.cmu.edu	562-447-4268
+91	Kaalen Kirrene	M	kkirrene@andrew.cmu.edu	9165255723
+133	Angie Wang	F	angiewang@cmu.edu	650-793-3753
+173	Tom Tseng	M	thomasts@andrew.cmu.edu	4257776626
+198	Lina Sheremet	F	ashereme@andrew.cmu.edu	617-833-1608
+206	David Andrews	M	dta@alumni.cmu.edu	2
+207	Radhika Dalal	F	rdalal@andrew.cmu.edu	609-712-1122
+215	Megan Fu	F	meganfu@andrew.cmu.edu	8649050484
+230	Andrew Zheng	M	andrewzh@andrew.cmu.edu	5132263761
+239	Arissa Li	F	ruoqil@andrew.cmu.edu	9178608928
+240	Zain  Islam-Hashmi	M	zislamha@andrew.cmu.edu	732-570-0863
+250	Nikhita Vanwari	F	nvanwari@andrew.cmu.edu	4126203527
+297	Michelle Ong	F	mong@andrew.cmu.edu	4122517959
+********************
+Emails to copy:
+cdomene@andrew.cmu.edu, meganfu@andrew.cmu.edu, kkirrene@andrew.cmu.edu, dbuzzell@andrew.cmu.edu, dta@alumni.cmu.edu, ashereme@andrew.cmu.edu, andrewzh@andrew.cmu.edu, thomasts@andrew.cmu.edu, zislamha@andrew.cmu.edu, ruoqil@andrew.cmu.edu, angiewang@cmu.edu, mong@andrew.cmu.edu, rdalal@andrew.cmu.edu, nvanwari@andrew.cmu.edu

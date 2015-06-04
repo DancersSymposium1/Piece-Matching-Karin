@@ -1,0 +1,16 @@
+********************
+Katie (12, Dance L)
+Desired: 9 dancers (no gender constraints)
+Matched: 9 dancers (9 female, 0 male)
+73	Katie Bradford	F	kathrynbradford93@gmail.com	9082479296
+78	Sandy Jiang	F	sandraj@andrew.cmu.edu	973-652-7116
+87	Angelina Sung	F	angelins@andrew.cmu.edu	408-338-5946
+150	Miriam Hegglin	F	mhegglin@andrew.cmu.edu	914-462-0832
+186	Irene Tai	F	itai@andrew.cmu.edu	703-346-9229
+189	Cortney Padua	F	cpadua@andrew.cmu.edu	510-350-6319
+200	Marianne Zhao	F	mhzhao@andrew.cmu.edu	2402101313
+227	Nicole Nyman	F	nbn@andrew.cmu.edu	1
+301	Jaclyn  Zois	F	jzois@andrew.cmu.edu	508-479-5254
+********************
+Emails to copy:
+kathrynbradford93@gmail.com, jzois@andrew.cmu.edu, cpadua@andrew.cmu.edu, angelins@andrew.cmu.edu, itai@andrew.cmu.edu, mhzhao@andrew.cmu.edu, sandraj@andrew.cmu.edu, nbn@andrew.cmu.edu, mhegglin@andrew.cmu.edu

@@ -1,0 +1,15 @@
+********************
+Madeline (20, Dance U)
+Desired: 8 dancers (no gender constraints)
+Matched: 8 dancers (7 female, 1 male)
+77	David Buzzell	M	dbuzzell@andrew.cmu.edu	404-585-1629
+79	Madeleine Hyde	F	mhyde@andrew.cmu.edu	301-325-9224
+99	Danielle Quan	F	dquan@andrew.cmu.edu	9162136370
+100	Elizabeth Ann Madigan	F	emadigan@andrew.cmu.edu	516-849-7817
+108	Margaret Edwards	F	mcedward@andrew.cmu.edu	412-360-9424
+111	Jennifer Lott	F	jnlott@andrew.cmu.edu	7247138661
+136	Nora Shoemaker	F	nshoemak@andrew.cmu.edu	440-821-2245
+244	Gail Wilson	F	gdw@andrew.cmu.edu	925-395-1097
+********************
+Emails to copy:
+mcedward@andrew.cmu.edu, gdw@andrew.cmu.edu, jnlott@andrew.cmu.edu, dquan@andrew.cmu.edu, nshoemak@andrew.cmu.edu, dbuzzell@andrew.cmu.edu, mhyde@andrew.cmu.edu, emadigan@andrew.cmu.edu

@@ -1,0 +1,21 @@
+********************
+Amy (16, Dance Q)
+Desired: 15 dancers (no gender constraints)
+Matched: 14 dancers (11 female, 3 male)
+82	Amy Lee	F	amylee@andrew.cmu.edu	2403288862
+100	Elizabeth Ann Madigan	F	emadigan@andrew.cmu.edu	516-849-7817
+115	Sue Jin Kim	F	suejink@andrew.cmu.edu	925-918-3823
+140	Himali Ranade	F	hranade@andrew.cmu.edu	4123787548
+155	Hyeon Ju Song	F	hyeonjus@andrew.cmu.edu	732-228-1998
+166	Cari Hartigan	F	chartiga@andrew.cmu.edu	5108464987
+216	Lillian Choung	F	lchoung@andrew.cmu.edu	510-996-2688
+219	Daniel Sori	M	dsori@andrew.cmu.edu	973-557-3808
+225	Rachel Sadecky	F	rsadecky@andrew.cmu.edu	724-889-6237
+239	Arissa Li	F	ruoqil@andrew.cmu.edu	9178608928
+247	Stephanie Mao	F	yuminm@andrew.cmu.edu	412-551-0937
+249	David Gardner	M	drobertgardner@gmail.com	4407494246
+253	Ashley Lee	F	ashleyle@andrew.cmu.edu	2407538521
+254	Shuobi Wu	M	shuobiw@andrew.cmu.edu	4438729649
+********************
+Emails to copy:
+amylee@andrew.cmu.edu, lchoung@andrew.cmu.edu, yuminm@andrew.cmu.edu, shuobiw@andrew.cmu.edu, rsadecky@andrew.cmu.edu, ashleyle@andrew.cmu.edu, hyeonjus@andrew.cmu.edu, chartiga@andrew.cmu.edu, emadigan@andrew.cmu.edu, ruoqil@andrew.cmu.edu, drobertgardner@gmail.com, suejink@andrew.cmu.edu, hranade@andrew.cmu.edu, dsori@andrew.cmu.edu

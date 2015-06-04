@@ -1,0 +1,24 @@
+********************
+Lisa (14, Dance N)
+Desired: 17 dancers (no gender constraints)
+Matched: 17 dancers (14 female, 3 male)
+75	Sabrina Liu	F	smliu@andrew.cmu.edu	412-498-9046
+80	Lisa Natale	F	lnatale@andrew.cmu.edu	407461279
+93	Sam Ahmed	M	saahmed@andrew.cmu.edu	408-786-8624
+94	So-Hee Woo	F	soheew@andrew.cmu.edu	9739979662
+101	Sarah Deluty	F	sdeluty@andrew.cmu.edu	9083343349
+105	Gillan Johnson	F	gkj@andrew.cmu.edu	202-384-0102
+118	Emily  Giedzinski	F	egiedzin@andrew.cmu.edu	248-613-6733
+122	Jillian Sabella	F	jsabella@andrew.cmu.edu	9737155816
+132	Jade Crockem	F	jcrockem@andrew.cmu.edu	7133014687
+166	Cari Hartigan	F	chartiga@andrew.cmu.edu	5108464987
+174	Evan Starkweather	M	estarkwe@andrewcmu.edu	513-227-1971
+176	Kevin Donohue	M	kmdonohu@andrew.cmu.edu	516-512-1291
+182	Erin Persson	F	etp@andrew.cmu.edu	210-475-2122
+186	Irene Tai	F	itai@andrew.cmu.edu	703-346-9229
+218	Winona Li	F	wnl@andrew.cmu.edu	412-352-7893
+233	Ciara Boeltz	F	cboeltz	412-708-2995
+308	Shae Hart	F	sthart@andrew.cmu.edu	480-294-4280
+********************
+Emails to copy:
+lnatale@andrew.cmu.edu, soheew@andrew.cmu.edu, kmdonohu@andrew.cmu.edu, saahmed@andrew.cmu.edu, estarkwe@andrewcmu.edu, gkj@andrew.cmu.edu, sdeluty@andrew.cmu.edu, itai@andrew.cmu.edu, jsabella@andrew.cmu.edu, smliu@andrew.cmu.edu, etp@andrew.cmu.edu, sthart@andrew.cmu.edu, jcrockem@andrew.cmu.edu, cboeltz, wnl@andrew.cmu.edu, egiedzin@andrew.cmu.edu, chartiga@andrew.cmu.edu

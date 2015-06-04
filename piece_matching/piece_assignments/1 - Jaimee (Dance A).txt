@@ -1,0 +1,25 @@
+********************
+Jaimee (1, Dance A)
+Desired: 18 dancers (no gender constraints)
+Matched: 18 dancers (10 female, 8 male)
+81	Carlos Domene	M	cdomene@andrew.cmu.edu	562-447-4268
+85	Jaimee Fair	F	jlfair@andrew.cmu.edu	4129270656
+90	Karin Tsai	F	karintsa@andrew.cmu.edu	717-817-1027
+127	Sabrina Estudillo	F	sestudil@andrew.cmu.edu	7735925502
+128	Feyi Quadri	F	fmq@andrew.cmu.edu	3019287195
+141	Samir Koppolu	M	sskoppol@andrew.cmu.edu	609-865-9805
+143	Demiere Fabrice	M	fdemiere@andrew.cmu.edu	4129612720
+146	Sam Simon	M	slsimon@andrew.cmu.edu	708-574-8526
+147	Sang Xu	M	sangx@andrew.cmu.edu	412-961-3477
+168	Keenan Gao	F	wendig@andrew.cmu.edu	7813540836
+190	Erica Huang	F	ericahua@andrew.cmu.edu	7322847570
+192	Graham Arthur	M	garthur@andrew.cmu.edu	201-240-5857
+209	Snigdha Roy	F	snigdhar@andrew.cmu.edu	507-990-9469
+221	Vivek Nair	M	viveknai@andrew.cmu.edu	412-708-9063
+228	Jialun Xu	F	jialunx@andrew.cmu.edu	312-730-2602
+229	Emmie Zhang	F	hanwenz@andrew.cmu.edu	412-996-9317
+244	Gail Wilson	F	gdw@andrew.cmu.edu	925-395-1097
+248	Juan Ogarrio	M	jogarrio@andrew.cmu.edu	412-956-7655
+********************
+Emails to copy:
+jlfair@andrew.cmu.edu, jialunx@andrew.cmu.edu, fmq@andrew.cmu.edu, sskoppol@andrew.cmu.edu, sestudil@andrew.cmu.edu, cdomene@andrew.cmu.edu, hanwenz@andrew.cmu.edu, ericahua@andrew.cmu.edu, slsimon@andrew.cmu.edu, jogarrio@andrew.cmu.edu, viveknai@andrew.cmu.edu, karintsa@andrew.cmu.edu, fdemiere@andrew.cmu.edu, snigdhar@andrew.cmu.edu, garthur@andrew.cmu.edu, sangx@andrew.cmu.edu, gdw@andrew.cmu.edu, wendig@andrew.cmu.edu

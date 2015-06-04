@@ -1,0 +1,25 @@
+********************
+Terence (11, Dance K)
+Desired: 18 dancers (no gender constraints)
+Matched: 18 dancers (11 female, 7 male)
+83	Terence An	M	terencea@andrew.cmu.edu	4+
+84	James Harvey	M	jdharvey@andrew.cmu.edu	3604712879
+85	Jaimee Fair	F	jlfair@andrew.cmu.edu	4129270656
+86	Mindy Pile	F	mpile@andrew.cmu.edu	940-808-8309
+88	karon hawkins	M	kjhawkin@andrew.cmu.edu	9179723953
+90	Karin Tsai	F	karintsa@andrew.cmu.edu	717-817-1027
+93	Sam Ahmed	M	saahmed@andrew.cmu.edu	408-786-8624
+124	Jilisa McCullough	F	jilisam@andrew.cmu.edu	267-701-6259
+195	Weikun Liang	F	weikunl@andrew.cmu.edu	4126389865
+205	Alexis Willis	F	awillis@andrew.cmu.edu	6466483536
+212	Brian Chen	M	bschen@andrew.cmu.edu	646-957-2290
+213	Katherine Wang	F	kyw1@andrew.cmu.edu	732-610-3403
+221	Vivek Nair	M	viveknai@andrew.cmu.edu	412-708-9063
+226	Sonali Avlani	F	savlani@andrew.cmu.edu	408-660-5626
+229	Emmie Zhang	F	hanwenz@andrew.cmu.edu	412-996-9317
+247	Stephanie Mao	F	yuminm@andrew.cmu.edu	412-551-0937
+299	Katie Lin	F	kelin@andrew.cmu.edu	571-721-9016
+302	Anand Pattabiraman	M	apattabi@andrew.cmu.edu	2012146067
+********************
+Emails to copy:
+terencea@andrew.cmu.edu, kjhawkin@andrew.cmu.edu, jdharvey@andrew.cmu.edu, saahmed@andrew.cmu.edu, mpile@andrew.cmu.edu, jlfair@andrew.cmu.edu, apattabi@andrew.cmu.edu, bschen@andrew.cmu.edu, yuminm@andrew.cmu.edu, karintsa@andrew.cmu.edu, kyw1@andrew.cmu.edu, hanwenz@andrew.cmu.edu, jilisam@andrew.cmu.edu, weikunl@andrew.cmu.edu, viveknai@andrew.cmu.edu, awillis@andrew.cmu.edu, kelin@andrew.cmu.edu, savlani@andrew.cmu.edu

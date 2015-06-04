@@ -1,0 +1,17 @@
+********************
+Sohee (9, Dance I)
+Desired: 10 dancers (no gender constraints)
+Matched: 10 dancers (7 female, 3 male)
+80	Lisa Natale	F	lnatale@andrew.cmu.edu	407461279
+84	James Harvey	M	jdharvey@andrew.cmu.edu	3604712879
+93	Sam Ahmed	M	saahmed@andrew.cmu.edu	408-786-8624
+94	So-Hee Woo	F	soheew@andrew.cmu.edu	9739979662
+101	Sarah Deluty	F	sdeluty@andrew.cmu.edu	9083343349
+162	Jung-Yu Lin	F	jungyul@andrew.cmu.edu	4042632369
+190	Erica Huang	F	ericahua@andrew.cmu.edu	7322847570
+196	Josh Kim	M	gyeongyk@andrew.cmu.edu	4124824215
+199	Molly Chou	F	mollyc@andrew.cmu.edu	408-823-5549
+208	Alexis DeLaRosa	F	adelaros@andrew.cmu.edu	845-494-5229
+********************
+Emails to copy:
+soheew@andrew.cmu.edu, gyeongyk@andrew.cmu.edu, saahmed@andrew.cmu.edu, lnatale@andrew.cmu.edu, jungyul@andrew.cmu.edu, jdharvey@andrew.cmu.edu, ericahua@andrew.cmu.edu, mollyc@andrew.cmu.edu, sdeluty@andrew.cmu.edu, adelaros@andrew.cmu.edu

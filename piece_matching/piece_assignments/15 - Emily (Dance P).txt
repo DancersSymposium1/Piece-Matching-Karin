@@ -1,0 +1,14 @@
+********************
+Emily (15, Dance P)
+Desired: 7 dancers (7-7 females, 0-0 males)
+Matched: 7 dancers (7 female, 0 male)
+72	Jacqueline Lee	F	jacquell@andrew.cmu.edu	626-388-5735
+73	Katie Bradford	F	kathrynbradford93@gmail.com	9082479296
+80	Lisa Natale	F	lnatale@andrew.cmu.edu	407461279
+92	Emily Mooney	F	emilymoo@andrew.cmu.edu	859-420-9915
+227	Nicole Nyman	F	nbn@andrew.cmu.edu	1
+231	Suzannah Glennon	F	sglennon@andrew.cmu.edu	603-502-6290
+308	Shae Hart	F	sthart@andrew.cmu.edu	480-294-4280
+********************
+Emails to copy:
+emilymoo@andrew.cmu.edu, kathrynbradford93@gmail.com, sthart@andrew.cmu.edu, nbn@andrew.cmu.edu, sglennon@andrew.cmu.edu, lnatale@andrew.cmu.edu, jacquell@andrew.cmu.edu

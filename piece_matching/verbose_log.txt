@@ -1,0 +1,927 @@
+
+Pass 1:
+
+***Checking piece 1 (Jaimee, Dance A)
+Demiere Fabrice (143) assigned to Jaimee (1, Dance A)
+Erin Persson (182) not assigned; pieces under consideration: [James (8, Dance H)]
+Anand Pattabiraman (302) is already done, not assigned
+Snigdha Roy (209) assigned to Jaimee (1, Dance A)
+Graham Arthur (192) assigned to Jaimee (1, Dance A)
+Stephanie Mao (247) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Sang Xu (147) assigned to Jaimee (1, Dance A)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 2 (Karon, Dance B)
+James Harvey (84) assigned to Karon (2, Dance B)
+Terence An (83) not assigned; pieces under consideration: [Sohee (9, Dance I)]
+Man Jun Han (300) assigned to Karon (2, Dance B)
+Feyi Quadri (128) is already done, not assigned
+Job Bedford (89) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Carlos Domene (81) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Kaalen Kirrene (91) assigned to Karon (2, Dance B)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 3 (Karin, Dance C)
+Jialun Xu (228) is already done, not assigned
+Stephanie Mao (247) assigned to Karin (3, Dance C)
+Emmie Zhang (229) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Terence An (83) not assigned; pieces under consideration: [Sohee (9, Dance I)]
+Graham Arthur (192) is already done, not assigned
+Shuobi Wu (254) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Francois Ban (232) assigned to Karin (3, Dance C)
+Katherine Wang (213) not assigned; pieces under consideration: [Jaimee (1, Dance A), Sam (4, Dance D ), James (8, Dance H)]
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 4 (Sam, Dance D )
+Mattie Hedgebeth (238) assigned to Sam (4, Dance D )
+Shae Hart (308) is already done, not assigned
+Miriam Hegglin (150) assigned to Sam (4, Dance D )
+Molly Chou (199) assigned to Sam (4, Dance D )
+
+***Checking piece 5 (Michelle, Dance E)
+Gail Wilson (244) not assigned; pieces under consideration: [Jaimee (1, Dance A)]
+Sam Ahmed (93) is already done, not assigned
+Lisa Natale (80) assigned to Michelle (5, Dance E)
+Jasmine Kim (191) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Jade Schiffer (125) assigned to Michelle (5, Dance E)
+Joel Goodloe (71) is already done, not assigned
+Chanamon Ratanalert (193) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), James (8, Dance H), Jaimee (1, Dance A)]
+Sonali Avlani (226) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Karin (3, Dance C), Terence (11, Dance K)]
+Miriam Hegglin (150) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Erica Huang (190) not assigned; pieces under consideration: [Sohee (9, Dance I)]
+
+***Checking piece 6 (Carlos, Dance F)
+Kaalen Kirrene (91) assigned to Carlos (6, Dance F)
+David Buzzell (77) assigned to Carlos (6, Dance F)
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Evan Starkweather (174) not assigned; pieces under consideration: [Katie (12, Dance L), Jacqueline (18, Dance S)]
+David Andrews (206) assigned to Carlos (6, Dance F)
+Demiere Fabrice (143) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Man Jun Han (300) is already done, not assigned
+Jacqueline Lee (72) not assigned; pieces under consideration: [Katie (12, Dance L), Michelle (5, Dance E)]
+Ivana Stevens (181) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Eric and Job (10, Dance J)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K)]
+Annie Cheng (217) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Karin (3, Dance C)]
+Lina Sheremet (198) assigned to Carlos (6, Dance F)
+Andrew Zheng (230) assigned to Carlos (6, Dance F)
+Tom Tseng (173) assigned to Carlos (6, Dance F)
+Elliot Rosen (251) not assigned; pieces under consideration: [David (7, Dance G), Kelsey and Kaalen (19, Dance T)]
+Have to hold on piece.
+
+***Checking piece 7 (David, Dance G)
+Kevin Apolo (114) assigned to David (7, Dance G)
+Evan Starkweather (174) not assigned; pieces under consideration: [Katie (12, Dance L), Jacqueline (18, Dance S)]
+Michelle Couste (197) assigned to David (7, Dance G)
+Alexis Willis (205) not assigned; pieces under consideration: [Jaimee (1, Dance A), Kelsey and Kaalen (19, Dance T), Terence (11, Dance K)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K)]
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Katie Lin (299) assigned to David (7, Dance G)
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Lisa (14, Dance N), Karin and Mindy (17, Dance R), Eric and Job (10, Dance J)]
+Kaalen Kirrene (91) is already done, not assigned
+Himali Ranade (140) assigned to David (7, Dance G)
+Sonali Avlani (226) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Karin (3, Dance C), Terence (11, Dance K)]
+Juan Ogarrio (248) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Jacqueline (18, Dance S)]
+Lina Sheremet (198) assigned to David (7, Dance G)
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 8 (James, Dance H)
+Katie Bradford (73) is already done, not assigned
+Eric Wong (95) assigned to James (8, Dance H)
+Michelle Cho (74) is already done, not assigned
+Erin Persson (182) assigned to James (8, Dance H)
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Lisa (14, Dance N), Karin and Mindy (17, Dance R), Eric and Job (10, Dance J)]
+Robin Anwyl (236) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Jacqueline Lee (72) not assigned; pieces under consideration: [Katie (12, Dance L), Michelle (5, Dance E)]
+Shuobi Wu (254) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Lawrence Hu (171) assigned to James (8, Dance H)
+Christin Bongiorni (156) assigned to James (8, Dance H)
+Paige Thompson (163) assigned to James (8, Dance H)
+Anny Fan (117) not assigned; pieces under consideration: [Lina and Sabrina (13, Dance M)]
+Kelsey Scott (76) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Jacqueline (18, Dance S)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 9 (Sohee, Dance I)
+Jung-Yu Lin (162) assigned to Sohee (9, Dance I)
+Sarah Deluty (101) not assigned; pieces under consideration: [Jaimee (1, Dance A)]
+Jillian Sabella (122) is already done, not assigned
+Alexis DeLaRosa (208) not assigned; pieces under consideration: [Lisa (14, Dance N)]
+James Harvey (84) assigned to Sohee (9, Dance I)
+Erica Huang (190) assigned to Sohee (9, Dance I)
+Molly Chou (199) assigned to Sohee (9, Dance I)
+Have to hold on piece.
+
+***Checking piece 10 (Eric and Job, Dance J)
+Jaimee Fair (85) is already done, not assigned
+Katherine Wang (213) not assigned; pieces under consideration: [Jaimee (1, Dance A), James (8, Dance H), Terence (11, Dance K)]
+Ivana Stevens (181) assigned to Eric and Job (10, Dance J)
+Emily  Giedzinski (118) assigned to Eric and Job (10, Dance J)
+Sam Gao (224) assigned to Eric and Job (10, Dance J)
+Snigdha Roy (209) assigned to Eric and Job (10, Dance J)
+Daniel Sori (219) assigned to Eric and Job (10, Dance J)
+Yiru Yao (109) assigned to Eric and Job (10, Dance J)
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 11 (Terence, Dance K)
+Karin Tsai (90) assigned to Terence (11, Dance K)
+Michelle Ong (297) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Katherine Wang (213) assigned to Terence (11, Dance K)
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Emmie Zhang (229) assigned to Terence (11, Dance K)
+Jade Schiffer (125) not assigned; pieces under consideration: [Jacqueline (18, Dance S)]
+Jilisa McCullough (124) assigned to Terence (11, Dance K)
+Weikun Liang (195) assigned to Terence (11, Dance K)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 12 (Katie, Dance L)
+Tara Stentz (142) not assigned; pieces under consideration: [Lina and Sabrina (13, Dance M)]
+Sandy Jiang (78) assigned to Katie (12, Dance L)
+Nicole Nyman (227) assigned to Katie (12, Dance L)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Molly Chou (199) is already done, not assigned
+Tara Stentz (142) assigned to Lina and Sabrina (13, Dance M)
+Irene Tai (186) assigned to Lina and Sabrina (13, Dance M)
+Erin Persson (182) is already done, not assigned
+Miriam Hegglin (150) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 14 (Lisa, Dance N)
+Jade Crockem (132) assigned to Lisa (14, Dance N)
+Nicole Nyman (227) not assigned; pieces under consideration: [Emily (15, Dance P)]
+Ciara Boeltz (233) assigned to Lisa (14, Dance N)
+Winona Li (218) assigned to Lisa (14, Dance N)
+Emily  Giedzinski (118) assigned to Lisa (14, Dance N)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 15 (Emily, Dance P)
+Sarah Deluty (101) not assigned; pieces under consideration: [Jaimee (1, Dance A)]
+Irene Tai (186) is already done, not assigned
+Mindy Pile (86) is already done, not assigned
+Nicole Nyman (227) assigned to Emily (15, Dance P)
+Suzannah Glennon (231) assigned to Emily (15, Dance P)
+Emmie Zhang (229) is already done, not assigned
+Lisa Natale (80) assigned to Emily (15, Dance P)
+
+***Checking piece 16 (Amy, Dance Q)
+Rachel Sadecky (225) assigned to Amy (16, Dance Q)
+Nicole Nyman (227) is already done, not assigned
+Robin Anwyl (236) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Ashley Lee (253) assigned to Amy (16, Dance Q)
+Kelsey Scott (76) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Jacqueline (18, Dance S)]
+Demiere Fabrice (143) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Hyeon Ju Song (155) assigned to Amy (16, Dance Q)
+Christin Bongiorni (156) is already done, not assigned
+Cari Hartigan (166) assigned to Amy (16, Dance Q)
+Katherine Wang (213) not assigned; pieces under consideration: [Jaimee (1, Dance A), James (8, Dance H)]
+Elizabeth Ann Madigan (100) assigned to Amy (16, Dance Q)
+Arissa Li (239) assigned to Amy (16, Dance Q)
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Amy Lee (82) assigned to Karin and Mindy (17, Dance R)
+Jade Crockem (132) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Miriam Hegglin (150) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Stephanie Mao (247) is already done, not assigned
+Erica Huang (190) is already done, not assigned
+Callista Jerman (153) assigned to Karin and Mindy (17, Dance R)
+Annie Cheng (217) assigned to Karin and Mindy (17, Dance R)
+Hyeon Ju Song (155) assigned to Karin and Mindy (17, Dance R)
+Kelsey Scott (76) assigned to Karin and Mindy (17, Dance R)
+Juan Ogarrio (248) assigned to Karin and Mindy (17, Dance R)
+Chanamon Ratanalert (193) assigned to Karin and Mindy (17, Dance R)
+Francois Ban (232) assigned to Karin and Mindy (17, Dance R)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 18 (Jacqueline, Dance S)
+Juan Ogarrio (248) assigned to Jacqueline (18, Dance S)
+Evan Starkweather (174) assigned to Jacqueline (18, Dance S)
+Sandy Jiang (78) not assigned; pieces under consideration: [Lisa (14, Dance N)]
+Kelsey Scott (76) assigned to Jacqueline (18, Dance S)
+Jade Schiffer (125) assigned to Jacqueline (18, Dance S)
+Mattie Hedgebeth (238) not assigned; pieces under consideration: [Jaimee (1, Dance A)]
+Job Bedford (89) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+David Buzzell (77) is already done, not assigned
+Arissa Li (239) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Weikun Liang (195) is already done, not assigned
+Rachel Sadecky (225) assigned to Jacqueline (18, Dance S)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Evan Starkweather (174) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Alexis DeLaRosa (208) not assigned; pieces under consideration: [Lisa (14, Dance N)]
+Miriam Hegglin (150) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Corinne Clinch (170) assigned to Kelsey and Kaalen (19, Dance T)
+Robin Anwyl (236) assigned to Kelsey and Kaalen (19, Dance T)
+Karin Tsai (90) is already done, not assigned
+Demiere Fabrice (143) assigned to Kelsey and Kaalen (19, Dance T)
+Elliot Rosen (251) assigned to Kelsey and Kaalen (19, Dance T)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 20 (Madeline, Dance U)
+Elizabeth Ann Madigan (100) assigned to Madeline (20, Dance U)
+
+Pass 2:
+
+***Checking piece 1 (Jaimee, Dance A)
+Gail Wilson (244) assigned to Jaimee (1, Dance A)
+Keenan Gao (168) assigned to Jaimee (1, Dance A)
+
+***Checking piece 2 (Karon, Dance B)
+Terence An (83) not assigned; pieces under consideration: [Sohee (9, Dance I)]
+Job Bedford (89) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Carlos Domene (81) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 3 (Karin, Dance C)
+Terence An (83) not assigned; pieces under consideration: [Sohee (9, Dance I)]
+Shuobi Wu (254) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H), Karin and Mindy (17, Dance R)]
+Lawrence Hu (171) assigned to Karin (3, Dance C)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 4 (Sam, Dance D )
+Piece added to full list, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Gail Wilson (244) is already done, not assigned
+Jasmine Kim (191) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Chanamon Ratanalert (193) assigned to Michelle (5, Dance E)
+Sonali Avlani (226) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Karin (3, Dance C), Terence (11, Dance K)]
+Miriam Hegglin (150) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Brian Chen (212) assigned to Michelle (5, Dance E)
+Nancy Xiao (306) assigned to Michelle (5, Dance E)
+Jacqueline Lee (72) assigned to Michelle (5, Dance E)
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 6 (Carlos, Dance F)
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Evan Starkweather (174) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Demiere Fabrice (143) is already done, not assigned
+Jacqueline Lee (72) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Ivana Stevens (181) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K)]
+Annie Cheng (217) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Elliot Rosen (251) not assigned; pieces under consideration: [David (7, Dance G)]
+Zain  Islam-Hashmi (240) assigned to Carlos (6, Dance F)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 7 (David, Dance G)
+Evan Starkweather (174) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Alexis Willis (205) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K), Karin (3, Dance C)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K)]
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Sonali Avlani (226) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R), Karin (3, Dance C), Terence (11, Dance K)]
+Juan Ogarrio (248) is already done, not assigned
+Leah Anton (241) assigned to David (7, Dance G)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 8 (James, Dance H)
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Robin Anwyl (236) is already done, not assigned
+Jacqueline Lee (72) not assigned; pieces under consideration: [Katie (12, Dance L)]
+Shuobi Wu (254) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Anny Fan (117) not assigned; pieces under consideration: [Lina and Sabrina (13, Dance M)]
+Kelsey Scott (76) is already done, not assigned
+Chanamon Ratanalert (193) assigned to James (8, Dance H)
+Alexis Willis (205) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T), Terence (11, Dance K), Karin (3, Dance C)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 9 (Sohee, Dance I)
+Sarah Deluty (101) assigned to Sohee (9, Dance I)
+Alexis DeLaRosa (208) assigned to Sohee (9, Dance I)
+
+***Checking piece 10 (Eric and Job, Dance J)
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H), Karin and Mindy (17, Dance R)]
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 11 (Terence, Dance K)
+Michelle Ong (297) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Vivek Nair (221) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Jade Schiffer (125) is already done, not assigned
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 12 (Katie, Dance L)
+Tara Stentz (142) is already done, not assigned
+Miriam Hegglin (150) assigned to Katie (12, Dance L)
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Miriam Hegglin (150) is already done, not assigned
+Lillian Choung (216) is already done, not assigned
+Hyeon Ju Song (155) is already done, not assigned
+Anny Fan (117) assigned to Lina and Sabrina (13, Dance M)
+
+***Checking piece 14 (Lisa, Dance N)
+Cari Hartigan (166) assigned to Lisa (14, Dance N)
+
+***Checking piece 15 (Emily, Dance P)
+Sarah Deluty (101) is already done, not assigned
+Jacqueline Lee (72) assigned to Emily (15, Dance P)
+
+***Checking piece 16 (Amy, Dance Q)
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H), Karin and Mindy (17, Dance R)]
+Emily  Giedzinski (118) not assigned; pieces under consideration: [Karin and Mindy (17, Dance R)]
+David Gardner (249) assigned to Amy (16, Dance Q)
+Daniel Sori (219) not assigned; pieces under consideration: [David (7, Dance G)]
+Sue Jin Kim (115) assigned to Amy (16, Dance Q)
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Jade Crockem (132) assigned to Karin and Mindy (17, Dance R)
+Emily  Giedzinski (118) assigned to Karin and Mindy (17, Dance R)
+
+***Checking piece 18 (Jacqueline, Dance S)
+Sandy Jiang (78) assigned to Jacqueline (18, Dance S)
+Mattie Hedgebeth (238) assigned to Jacqueline (18, Dance S)
+Job Bedford (89) not assigned; pieces under consideration: [Karon (2, Dance B)]
+Arissa Li (239) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Evan Starkweather (174) not assigned; pieces under consideration: [David (7, Dance G)]
+Alexis DeLaRosa (208) is already done, not assigned
+Francois Ban (232) is already done, not assigned
+Alexis Willis (205) assigned to Kelsey and Kaalen (19, Dance T)
+Radhika Dalal (207) assigned to Kelsey and Kaalen (19, Dance T)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 20 (Madeline, Dance U)
+Piece added to full list, continuing
+
+Pass 3:
+
+***Checking piece 1 (Jaimee, Dance A)
+Piece added to full list, continuing
+
+***Checking piece 2 (Karon, Dance B)
+Terence An (83) assigned to Karon (2, Dance B)
+Job Bedford (89) assigned to Karon (2, Dance B)
+Carlos Domene (81) assigned to Karon (2, Dance B)
+
+***Checking piece 3 (Karin, Dance C)
+Terence An (83) is already done, not assigned
+Shuobi Wu (254) not assigned; pieces under consideration: [James (8, Dance H)]
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H), Eric and Job (10, Dance J)]
+Annie Cheng (217) assigned to Karin (3, Dance C)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 4 (Sam, Dance D )
+Piece is full, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Jasmine Kim (191) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Sonali Avlani (226) assigned to Michelle (5, Dance E)
+Sandy Jiang (78) is already done, not assigned
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 6 (Carlos, Dance F)
+Vivek Nair (221) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Evan Starkweather (174) not assigned; pieces under consideration: [David (7, Dance G)]
+Jacqueline Lee (72) is already done, not assigned
+Ivana Stevens (181) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Annie Cheng (217) is already done, not assigned
+Elliot Rosen (251) not assigned; pieces under consideration: [David (7, Dance G)]
+Arissa Li (239) assigned to Carlos (6, Dance F)
+Angie Wang (133) assigned to Carlos (6, Dance F)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 7 (David, Dance G)
+Evan Starkweather (174) assigned to David (7, Dance G)
+Alexis Willis (205) not assigned; pieces under consideration: [Terence (11, Dance K), Karin (3, Dance C)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Vivek Nair (221) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Emily  Giedzinski (118) is already done, not assigned
+Sonali Avlani (226) not assigned; pieces under consideration: [Karin (3, Dance C), Terence (11, Dance K)]
+Elliot Rosen (251) assigned to David (7, Dance G)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 8 (James, Dance H)
+Shuobi Wu (254) assigned to James (8, Dance H)
+Anny Fan (117) is already done, not assigned
+Alexis Willis (205) not assigned; pieces under consideration: [Terence (11, Dance K), Karin (3, Dance C)]
+Benjamin Chu (185) assigned to James (8, Dance H)
+Madeleine Hyde (79) assigned to James (8, Dance H)
+Yiru Yao (109) assigned to James (8, Dance H)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 9 (Sohee, Dance I)
+Piece added to full list, continuing
+
+***Checking piece 10 (Eric and Job, Dance J)
+Katherine Wang (213) assigned to Eric and Job (10, Dance J)
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 11 (Terence, Dance K)
+Michelle Ong (297) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Katie Lin (299) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Vivek Nair (221) assigned to Terence (11, Dance K)
+Alexis Willis (205) assigned to Terence (11, Dance K)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 12 (Katie, Dance L)
+Piece added to full list, continuing
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Piece added to full list, continuing
+
+***Checking piece 14 (Lisa, Dance N)
+Piece added to full list, continuing
+
+***Checking piece 15 (Emily, Dance P)
+Piece added to full list, continuing
+
+***Checking piece 16 (Amy, Dance Q)
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H)]
+Daniel Sori (219) not assigned; pieces under consideration: [David (7, Dance G)]
+Nikhita Vanwari (250) not assigned; pieces under consideration: [Kelsey and Kaalen (19, Dance T)]
+Have to hold on piece.
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Piece added to full list, continuing
+
+***Checking piece 18 (Jacqueline, Dance S)
+Job Bedford (89) is already done, not assigned
+Arissa Li (239) is already done, not assigned
+Hayoun Kim (242) assigned to Jacqueline (18, Dance S)
+Nancy Xiao (306) assigned to Jacqueline (18, Dance S)
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Evan Starkweather (174) is already done, not assigned
+Ivana Stevens (181) assigned to Kelsey and Kaalen (19, Dance T)
+
+***Checking piece 20 (Madeline, Dance U)
+Piece is full, continuing
+
+Pass 4:
+
+***Checking piece 1 (Jaimee, Dance A)
+Piece is full, continuing
+
+***Checking piece 2 (Karon, Dance B)
+Piece added to full list, continuing
+
+***Checking piece 3 (Karin, Dance C)
+Shuobi Wu (254) is already done, not assigned
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H)]
+Sonali Avlani (226) assigned to Karin (3, Dance C)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 4 (Sam, Dance D )
+Piece is full, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Jasmine Kim (191) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 6 (Carlos, Dance F)
+Vivek Nair (221) is already done, not assigned
+Ivana Stevens (181) is already done, not assigned
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Elliot Rosen (251) is already done, not assigned
+Yiru Yao (109) is already done, not assigned
+Nikhita Vanwari (250) not assigned; pieces under consideration: [James (8, Dance H)]
+Michelle Ong (297) assigned to Carlos (6, Dance F)
+
+***Checking piece 7 (David, Dance G)
+Alexis Willis (205) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Radhika Dalal (207) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Sonali Avlani (226) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Kelly  Underwood  (121) assigned to David (7, Dance G)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 8 (James, Dance H)
+Alexis Willis (205) not assigned; pieces under consideration: [Karin (3, Dance C)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 9 (Sohee, Dance I)
+Piece is full, continuing
+
+***Checking piece 10 (Eric and Job, Dance J)
+Katie Lin (299) not assigned; pieces under consideration: [Terence (11, Dance K)]
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 11 (Terence, Dance K)
+Michelle Ong (297) is already done, not assigned
+Katie Lin (299) assigned to Terence (11, Dance K)
+Sonali Avlani (226) assigned to Terence (11, Dance K)
+
+***Checking piece 12 (Katie, Dance L)
+Piece is full, continuing
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Piece is full, continuing
+
+***Checking piece 14 (Lisa, Dance N)
+Piece is full, continuing
+
+***Checking piece 15 (Emily, Dance P)
+Piece is full, continuing
+
+***Checking piece 16 (Amy, Dance Q)
+Katherine Wang (213) not assigned; pieces under consideration: [James (8, Dance H)]
+Daniel Sori (219) not assigned; pieces under consideration: [David (7, Dance G)]
+Nikhita Vanwari (250) not assigned; pieces under consideration: [James (8, Dance H)]
+Have to hold on piece.
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Piece is full, continuing
+
+***Checking piece 18 (Jacqueline, Dance S)
+Piece added to full list, continuing
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Piece added to full list, continuing
+
+***Checking piece 20 (Madeline, Dance U)
+Piece is full, continuing
+
+Pass 5:
+
+***Checking piece 1 (Jaimee, Dance A)
+Piece is full, continuing
+
+***Checking piece 2 (Karon, Dance B)
+Piece is full, continuing
+
+***Checking piece 3 (Karin, Dance C)
+Katherine Wang (213) assigned to Karin (3, Dance C)
+
+***Checking piece 4 (Sam, Dance D )
+Piece is full, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Jasmine Kim (191) assigned to Michelle (5, Dance E)
+Radhika Dalal (207) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 6 (Carlos, Dance F)
+Radhika Dalal (207) assigned to Carlos (6, Dance F)
+Nikhita Vanwari (250) not assigned; pieces under consideration: [James (8, Dance H)]
+
+***Checking piece 7 (David, Dance G)
+Alexis Willis (205) not assigned; pieces under consideration: [James (8, Dance H)]
+Radhika Dalal (207) is already done, not assigned
+Sonali Avlani (226) is already done, not assigned
+Melissa Dileo (149) assigned to David (7, Dance G)
+Kevin Donohue (176) assigned to David (7, Dance G)
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+Have to hold on piece.
+
+***Checking piece 8 (James, Dance H)
+Alexis Willis (205) assigned to James (8, Dance H)
+
+***Checking piece 9 (Sohee, Dance I)
+Piece is full, continuing
+
+***Checking piece 10 (Eric and Job, Dance J)
+Katie Lin (299) is already done, not assigned
+Kevin Apolo (114) assigned to Eric and Job (10, Dance J)
+
+***Checking piece 11 (Terence, Dance K)
+Piece added to full list, continuing
+
+***Checking piece 12 (Katie, Dance L)
+Piece is full, continuing
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Piece is full, continuing
+
+***Checking piece 14 (Lisa, Dance N)
+Piece is full, continuing
+
+***Checking piece 15 (Emily, Dance P)
+Piece is full, continuing
+
+***Checking piece 16 (Amy, Dance Q)
+Katherine Wang (213) is already done, not assigned
+Daniel Sori (219) not assigned; pieces under consideration: [David (7, Dance G)]
+Nikhita Vanwari (250) not assigned; pieces under consideration: [Carlos (6, Dance F)]
+Himali Ranade (140) assigned to Amy (16, Dance Q)
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Piece is full, continuing
+
+***Checking piece 18 (Jacqueline, Dance S)
+Piece is full, continuing
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Piece is full, continuing
+
+***Checking piece 20 (Madeline, Dance U)
+Piece is full, continuing
+
+Pass 6:
+
+***Checking piece 1 (Jaimee, Dance A)
+Piece is full, continuing
+
+***Checking piece 2 (Karon, Dance B)
+Piece is full, continuing
+
+***Checking piece 3 (Karin, Dance C)
+Piece added to full list, continuing
+
+***Checking piece 4 (Sam, Dance D )
+Piece is full, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Amy Lee (82) assigned to Michelle (5, Dance E)
+
+***Checking piece 6 (Carlos, Dance F)
+Nikhita Vanwari (250) assigned to Carlos (6, Dance F)
+
+***Checking piece 7 (David, Dance G)
+Alexis Willis (205) is already done, not assigned
+Andrew Zheng (230) assigned to David (7, Dance G)
+
+***Checking piece 8 (James, Dance H)
+Piece added to full list, continuing
+
+***Checking piece 9 (Sohee, Dance I)
+Piece is full, continuing
+
+***Checking piece 10 (Eric and Job, Dance J)
+Piece added to full list, continuing
+
+***Checking piece 11 (Terence, Dance K)
+Piece is full, continuing
+
+***Checking piece 12 (Katie, Dance L)
+Piece is full, continuing
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Piece is full, continuing
+
+***Checking piece 14 (Lisa, Dance N)
+Piece is full, continuing
+
+***Checking piece 15 (Emily, Dance P)
+Piece is full, continuing
+
+***Checking piece 16 (Amy, Dance Q)
+Daniel Sori (219) assigned to Amy (16, Dance Q)
+Nikhita Vanwari (250) is already done, not assigned
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Piece is full, continuing
+
+***Checking piece 18 (Jacqueline, Dance S)
+Piece is full, continuing
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Piece is full, continuing
+
+***Checking piece 20 (Madeline, Dance U)
+Piece is full, continuing
+
+Pass 7:
+
+***Checking piece 1 (Jaimee, Dance A)
+Piece is full, continuing
+
+***Checking piece 2 (Karon, Dance B)
+Piece is full, continuing
+
+***Checking piece 3 (Karin, Dance C)
+Piece is full, continuing
+
+***Checking piece 4 (Sam, Dance D )
+Piece is full, continuing
+
+***Checking piece 5 (Michelle, Dance E)
+Piece added to full list, continuing
+
+***Checking piece 6 (Carlos, Dance F)
+Piece has no more dancers to consider.
+
+***Checking piece 7 (David, Dance G)
+Piece added to full list, continuing
+
+***Checking piece 8 (James, Dance H)
+Piece is full, continuing
+
+***Checking piece 9 (Sohee, Dance I)
+Piece is full, continuing
+
+***Checking piece 10 (Eric and Job, Dance J)
+Piece is full, continuing
+
+***Checking piece 11 (Terence, Dance K)
+Piece is full, continuing
+
+***Checking piece 12 (Katie, Dance L)
+Piece is full, continuing
+
+***Checking piece 13 (Lina and Sabrina, Dance M)
+Piece is full, continuing
+
+***Checking piece 14 (Lisa, Dance N)
+Piece is full, continuing
+
+***Checking piece 15 (Emily, Dance P)
+Piece is full, continuing
+
+***Checking piece 16 (Amy, Dance Q)
+Piece has no more dancers to consider.
+
+***Checking piece 17 (Karin and Mindy, Dance R)
+Piece is full, continuing
+
+***Checking piece 18 (Jacqueline, Dance S)
+Piece is full, continuing
+
+***Checking piece 19 (Kelsey and Kaalen, Dance T)
+Piece is full, continuing
+
+***Checking piece 20 (Madeline, Dance U)
+Piece is full, continuing

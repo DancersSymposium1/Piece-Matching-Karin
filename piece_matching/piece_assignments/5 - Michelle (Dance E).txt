@@ -1,0 +1,17 @@
+********************
+Michelle (5, Dance E)
+Desired: 10 dancers (no gender constraints)
+Matched: 10 dancers (9 female, 1 male)
+72	Jacqueline Lee	F	jacquell@andrew.cmu.edu	626-388-5735
+74	Michelle Cho	F	mwcho@andrew.cmu.edu	732-744-4798
+80	Lisa Natale	F	lnatale@andrew.cmu.edu	407461279
+82	Amy Lee	F	amylee@andrew.cmu.edu	2403288862
+125	Jade Schiffer	F	jschiffe@andrew.cmu.edu	914-217-3322
+191	Jasmine Kim	F	jaehyunk@andrew.cmu.edu	201-687-0782
+193	Chanamon Ratanalert	F	chanamon@cmu.edu	862-371-3892
+212	Brian Chen	M	bschen@andrew.cmu.edu	646-957-2290
+226	Sonali Avlani	F	savlani@andrew.cmu.edu	408-660-5626
+306	Nancy Xiao	F	nnx@andrew.cmu.edu	408-439-5293
+********************
+Emails to copy:
+mwcho@andrew.cmu.edu, lnatale@andrew.cmu.edu, jschiffe@andrew.cmu.edu, chanamon@cmu.edu, bschen@andrew.cmu.edu, nnx@andrew.cmu.edu, jacquell@andrew.cmu.edu, savlani@andrew.cmu.edu, jaehyunk@andrew.cmu.edu, amylee@andrew.cmu.edu

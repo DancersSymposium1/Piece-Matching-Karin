@@ -1,0 +1,22 @@
+********************
+David (7, Dance G)
+Desired: 15 dancers (no gender constraints)
+Matched: 15 dancers (9 female, 6 male)
+77	David Buzzell	M	dbuzzell@andrew.cmu.edu	404-585-1629
+114	Kevin Apolo	M	kapolo@andrew.cmu.edu	646-455-8569
+121	Kelly  Underwood 	F	kcu@andrew.cmu.edu	202-230-2287
+140	Himali Ranade	F	hranade@andrew.cmu.edu	4123787548
+149	Melissa Dileo	F	mdileo@andrew.cmu.edu	(516-776-8130)
+164	Cecilia Kiker	F	ckiker@andrew.cmu.edu	203-727-3488
+174	Evan Starkweather	M	estarkwe@andrewcmu.edu	513-227-1971
+176	Kevin Donohue	M	kmdonohu@andrew.cmu.edu	516-512-1291
+197	Michelle Couste	F	mcouste@andrew.cmu.edu	301-906-5350
+198	Lina Sheremet	F	ashereme@andrew.cmu.edu	617-833-1608
+230	Andrew Zheng	M	andrewzh@andrew.cmu.edu	5132263761
+241	Leah Anton	F	lanton@andrew.cmu.edu	516-695-8121
+250	Nikhita Vanwari	F	nvanwari@andrew.cmu.edu	4126203527
+251	Elliot Rosen	M	elliotr@andrew.cmu.edu	215-680-3192
+299	Katie Lin	F	kelin@andrew.cmu.edu	571-721-9016
+********************
+Emails to copy:
+dbuzzell@andrew.cmu.edu, nvanwari@andrew.cmu.edu, ckiker@andrew.cmu.edu, kapolo@andrew.cmu.edu, mcouste@andrew.cmu.edu, kelin@andrew.cmu.edu, hranade@andrew.cmu.edu, ashereme@andrew.cmu.edu, lanton@andrew.cmu.edu, estarkwe@andrewcmu.edu, elliotr@andrew.cmu.edu, kcu@andrew.cmu.edu, mdileo@andrew.cmu.edu, kmdonohu@andrew.cmu.edu, andrewzh@andrew.cmu.edu

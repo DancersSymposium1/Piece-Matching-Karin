@@ -1,0 +1,19 @@
+********************
+Kelsey and Kaalen (19, Dance T)
+Desired: 12 dancers (6-6 females, 6-6 males)
+Matched: 12 dancers (6 female, 6 male)
+76	Kelsey Scott	F	kescott@andrew.cmu.edu	9086192579
+81	Carlos Domene	M	cdomene@andrew.cmu.edu	562-447-4268
+89	Job Bedford	M	jbedford@andrew.cmu.edu	410818008
+91	Kaalen Kirrene	M	kkirrene@andrew.cmu.edu	9165255723
+143	Demiere Fabrice	M	fdemiere@andrew.cmu.edu	4129612720
+170	Corinne Clinch	F	cclinch@andrew.cmu.edu	7578173897
+181	Ivana Stevens	F	istevens@andrew.cmu.edu	757-319-9541
+205	Alexis Willis	F	awillis@andrew.cmu.edu	6466483536
+206	David Andrews	M	dta@alumni.cmu.edu	2
+207	Radhika Dalal	F	rdalal@andrew.cmu.edu	609-712-1122
+236	Robin Anwyl	F	ranwyl@andrew.cmu.edu	6502915312
+251	Elliot Rosen	M	elliotr@andrew.cmu.edu	215-680-3192
+********************
+Emails to copy:
+kkirrene@andrew.cmu.edu, kescott@andrew.cmu.edu, cdomene@andrew.cmu.edu, jbedford@andrew.cmu.edu, dta@alumni.cmu.edu, cclinch@andrew.cmu.edu, ranwyl@andrew.cmu.edu, fdemiere@andrew.cmu.edu, elliotr@andrew.cmu.edu, awillis@andrew.cmu.edu, rdalal@andrew.cmu.edu, istevens@andrew.cmu.edu

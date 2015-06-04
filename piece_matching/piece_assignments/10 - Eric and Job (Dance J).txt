@@ -1,0 +1,19 @@
+********************
+Eric and Job (10, Dance J)
+Desired: 12 dancers (no gender constraints)
+Matched: 12 dancers (6 female, 6 male)
+89	Job Bedford	M	jbedford@andrew.cmu.edu	410818008
+95	Eric Wong	M	ericwong@andrew.cmu.edu	339-223-7159
+109	Yiru Yao	F	yiruy@andrew.cmu.edu	4128011980
+114	Kevin Apolo	M	kapolo@andrew.cmu.edu	646-455-8569
+118	Emily  Giedzinski	F	egiedzin@andrew.cmu.edu	248-613-6733
+181	Ivana Stevens	F	istevens@andrew.cmu.edu	757-319-9541
+206	David Andrews	M	dta@alumni.cmu.edu	2
+209	Snigdha Roy	F	snigdhar@andrew.cmu.edu	507-990-9469
+213	Katherine Wang	F	kyw1@andrew.cmu.edu	732-610-3403
+219	Daniel Sori	M	dsori@andrew.cmu.edu	973-557-3808
+224	Sam Gao	F	samanthg@andrew.cmu.edu	718-866-7513
+300	Man Jun Han	M	manjunh@andrew.cmu.edu	412-694-6199
+********************
+Emails to copy:
+jbedford@andrew.cmu.edu, ericwong@andrew.cmu.edu, manjunh@andrew.cmu.edu, dta@alumni.cmu.edu, istevens@andrew.cmu.edu, egiedzin@andrew.cmu.edu, samanthg@andrew.cmu.edu, snigdhar@andrew.cmu.edu, dsori@andrew.cmu.edu, yiruy@andrew.cmu.edu, kyw1@andrew.cmu.edu, kapolo@andrew.cmu.edu

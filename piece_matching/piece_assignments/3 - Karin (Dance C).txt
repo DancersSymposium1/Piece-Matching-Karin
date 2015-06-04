@@ -1,0 +1,17 @@
+********************
+Karin (3, Dance C)
+Desired: 10 dancers (no gender constraints)
+Matched: 10 dancers (9 female, 1 male)
+90	Karin Tsai	F	karintsa@andrew.cmu.edu	717-817-1027
+156	Christin Bongiorni	F	cbongior@andrew.cmu.edu	724-809-5704
+171	Lawrence Hu	M	lyhu@andrew.cmu.edu	9494399988
+182	Erin Persson	F	etp@andrew.cmu.edu	210-475-2122
+199	Molly Chou	F	mollyc@andrew.cmu.edu	408-823-5549
+213	Katherine Wang	F	kyw1@andrew.cmu.edu	732-610-3403
+217	Annie Cheng	F	anniec1@andrew.cmu.edu	805-338-8808
+226	Sonali Avlani	F	savlani@andrew.cmu.edu	408-660-5626
+232	Francois Ban	F	kban@andrew.cmu.edu	6316172859
+247	Stephanie Mao	F	yuminm@andrew.cmu.edu	412-551-0937
+********************
+Emails to copy:
+karintsa@andrew.cmu.edu, etp@andrew.cmu.edu, cbongior@andrew.cmu.edu, mollyc@andrew.cmu.edu, yuminm@andrew.cmu.edu, kban@andrew.cmu.edu, lyhu@andrew.cmu.edu, anniec1@andrew.cmu.edu, savlani@andrew.cmu.edu, kyw1@andrew.cmu.edu

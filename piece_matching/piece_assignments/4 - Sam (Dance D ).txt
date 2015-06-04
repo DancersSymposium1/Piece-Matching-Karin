@@ -1,0 +1,23 @@
+********************
+Sam (4, Dance D )
+Desired: 16 dancers (no gender constraints)
+Matched: 16 dancers (14 female, 2 male)
+73	Katie Bradford	F	kathrynbradford93@gmail.com	9082479296
+74	Michelle Cho	F	mwcho@andrew.cmu.edu	732-744-4798
+75	Sabrina Liu	F	smliu@andrew.cmu.edu	412-498-9046
+93	Sam Ahmed	M	saahmed@andrew.cmu.edu	408-786-8624
+94	So-Hee Woo	F	soheew@andrew.cmu.edu	9739979662
+101	Sarah Deluty	F	sdeluty@andrew.cmu.edu	9083343349
+122	Jillian Sabella	F	jsabella@andrew.cmu.edu	9737155816
+142	Tara Stentz	F	tstentz@andrew.cmu.edu	412-327-8466
+150	Miriam Hegglin	F	mhegglin@andrew.cmu.edu	914-462-0832
+172	Jacquelyn Gutierrez	F	jtgutier@andrew.cmu.edu	407-394-8330
+196	Josh Kim	M	gyeongyk@andrew.cmu.edu	4124824215
+199	Molly Chou	F	mollyc@andrew.cmu.edu	408-823-5549
+208	Alexis DeLaRosa	F	adelaros@andrew.cmu.edu	845-494-5229
+233	Ciara Boeltz	F	cboeltz	412-708-2995
+238	Mattie Hedgebeth	F	mhedgebe@andrew.cmu.edu	410-934-8749
+244	Gail Wilson	F	gdw@andrew.cmu.edu	925-395-1097
+********************
+Emails to copy:
+saahmed@andrew.cmu.edu, mwcho@andrew.cmu.edu, kathrynbradford93@gmail.com, smliu@andrew.cmu.edu, sdeluty@andrew.cmu.edu, jsabella@andrew.cmu.edu, jtgutier@andrew.cmu.edu, gyeongyk@andrew.cmu.edu, adelaros@andrew.cmu.edu, cboeltz, gdw@andrew.cmu.edu, soheew@andrew.cmu.edu, tstentz@andrew.cmu.edu, mhedgebe@andrew.cmu.edu, mhegglin@andrew.cmu.edu, mollyc@andrew.cmu.edu

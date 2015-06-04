@@ -1,0 +1,37 @@
+103	Nicholas Medich	M	nmedich@andrew.cmu.edu	412-445-9857
+107	Samantha Sanstrom	F	ssanstro@andrew.cmu.edu	410-440-5823
+110	Ga Ram Kim	F	garamk@andrew.cmu.edu	508-988-0902
+113	Marina McIntosh	F	mmcintos@andrew.cmu.edu	603-703-5006
+116	Hyukjae Kwark	M	hkwark@andrew.cmu.edu	412-708-4728
+126	Rachel McKinney	F	ramckinn@andrew.cmu.edu	412-477-7448
+129	Sonia Azad	F	sazad@andrew.cmu.edu	225-252-9907
+130	Keith Kelly	M	kwkelly@andrew.cmu.edu	802-363-1533
+131	Priscilla Medor	F	pmedor@andrew.cmu.edu	845-282-5210
+134	Alaina Anand	F	aaanand@andrew.cmu.edu	814-771-2507
+135	Jenny Wong	F	jennyw@andrew.cmu.edu	6464361645
+137	Albina Kwak	F	yaesunk@andrew.cmu.edu	770-714-0238
+139	eunsol Park	F	eunsolp@andrew.cmu.edu	518-763-8424
+144	Maegha Singh	F	mrsingh@andrew.cmu.edu	978-496-0738
+145	Kavita Ramnath	F	kavitar@andrew.cmu.edu	347-593-1449
+148	Charmaine Yau	F	cyau@andrew.cmu.edu	412-759-4012
+151	Nina  Fan	F	nhfan@andrew.cmu.edu	484-888-0287
+157	Ning Guan	F	nguan@andrew.cmu.edu	609-865-8192
+158	Jiaping Bian	F	jiapingb@andrew.cmu.edu	412-961-4705
+167	Tanvi  Joshi	F	tjoshi@andrew.cmu.edu	517-927-3209
+183	Victoria Yong	F	vyong@andrew.cmu.edu	609-529-4926
+187	judy li	F	judyli@andrew.cmu.edu	9172315112
+188	Veronica Wang	F	yiruiw@andrew.cmu.eud	4124782367
+194	Qi Ser	F	qser@andrew.cmu.edu	4128011805
+210	Yiyi Zhao	F	yiyizhao@andrew.cmu.edu	4125927874
+211	Karthik Annaamalai	M	kannaama	4086217479
+214	Andrea Topacio	F	atopacio@andrew.cmu.edu	206-372-2877
+220	Angela Liang	F	angelali@andrew.cmu.edu	908-392-5878
+235	Shivam Naik	F	srnaik@andrew.cmu.edu	201-478-3294
+243	Katherine Kim	F	katherik@andrew.cmu.edu	323-717-2857
+246	Cindy Lai	F	chuanhsl@andrew.cmu.edu	7327663788
+255	Yinan Wang	F	yinanwang0404@gmail.com	412-265-7073
+257	Derek Stillman	M	2492686051@QQ.com	440 289 8671
+260	Jing Mao	F	jingmao@andrew.cmu.edu	412-636-4290
+304	Velisa Li	F	vcl@andrew.cmu.edu	610-653-4032
+305	Jazmin Rocha	F	jrocha@andrew.cmu.edu	703-9393-3165
+307	Debomita Basu	F	dbasu@andrew.cmu.edu	914-924-4223
